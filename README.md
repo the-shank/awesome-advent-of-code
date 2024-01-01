@@ -282,12 +282,12 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 *Solutions to AoC in Haskell.*
 
 * [bionikspoon/HaskellAdventOfCode2020](https://github.com/bionikspoon/HaskellAdventOfCode2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--01--19-brightgreen)
-* [BZuilhof/AdventOfCode](https://github.com/BZuilhof/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--20-green)
+* [BZuilhof/AdventOfCode](https://github.com/BZuilhof/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--31-brightgreen)
 * [Sciencentistguy/AdventOfCode](https://github.com/Sciencentistguy/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--20-green)
 * [SimonBaars/AdventOfCode-Haskell](https://github.com/SimonBaars/AdventOfCode-Haskell) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--01-orange)
 * [ephemient/aoc2020](https://github.com/ephemient/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--11--17-brightgreen)
 * [haskelling/aoc2020](https://github.com/haskelling/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--08-yellow)
-* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--15-yellowgreen)
+* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--31-brightgreen)
 * [siraben/hoac-2020](https://github.com/siraben/hoac-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--25-brightgreen)
 * [mstksg/advent-of-code-2020](https://github.com/mstksg/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--12--02-orange)
 
@@ -305,7 +305,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in J.*
 
-* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--15-yellowgreen)
+* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--31-brightgreen)
 * [mk12/aoc](https://github.com/mk12/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-yellowgreen)
 
 #### Java
@@ -566,7 +566,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in Scheme.*
 
-* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--15-yellowgreen)
+* [jitwit/aoc](https://github.com/jitwit/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--31-brightgreen)
 
 #### SpectX
 
